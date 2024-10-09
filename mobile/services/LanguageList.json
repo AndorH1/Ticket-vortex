@@ -1,0 +1,14 @@
+{
+  "en": {
+    "name": "English",
+    "nativeName": "English"
+  },
+  "ro": {
+    "name": "Romanian, Moldavian, Moldovan",
+    "nativeName": "Română"
+  },
+  "hu": {
+    "name": "Hungarian",
+    "nativeName": "Magyar"
+  }
+}
